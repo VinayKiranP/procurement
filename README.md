@@ -5,15 +5,16 @@
 
 ## Quick Installation
 
-    git clone https://github.com/ekramasif/SD_Project.git
+    git clone https://github.com/VinayKiranP/procurement.git
 
-    cd SD_Project/
+    cd procurement/
     
 ### Composer Install
 
-    composer update
-    
     composer install
+    
+    composer update
+
     
 ### For Environment Variable Create
  
@@ -30,6 +31,6 @@
 
 ## Our valuable team👩‍💻👨‍💻 :
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://contributors-img.web.app/image?repo=ekramasif/SD_Project" />
-</p>
+</p> -->
